@@ -1,0 +1,42 @@
+.container {
+  margin: 0 auto;
+  width: 750px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+/*#pricing {
+  background-color: red;
+}*/
+
+#left {    
+   float: left;
+   width: 33%; 
+}
+
+#midle {
+  float: left;
+  /*margin-left: 240px;*/
+  width: 33%;
+}
+
+#right {
+   float: left;
+   /*margin-left: 500px;*/
+   width: 33%;
+}
+
+h5 {
+  text-align:center;
+}
